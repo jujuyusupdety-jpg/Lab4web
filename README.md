@@ -72,7 +72,7 @@ horizontal jika ruang halaman mencukupi.
 
 **Screenshot hasil praktik:**
 
-![Hasil CSS Float](box.png)
+(![Hasil CSS Float](pict%20ss/box.png))
 
 ## 5. Langkah 3 --- Mengatur Clearfix
 
@@ -159,7 +159,7 @@ semakin lengkap setelah CSS dan konten ditambahkan.
 
 **Screenshot hasil praktik:**
 
-![Kerangka Layout](y1.png)
+![Kerangka Layout](pict%20ss/y1.png)
 
 ## 7. Langkah 5 --- Mengatur Header
 
@@ -225,7 +225,7 @@ dalam satu baris.
 
 **Screenshot hasil praktik:**
 
-![Navigasi](y5.png)
+![Navigasi](pict%20ss/y5.png)
 
 ## 9. Langkah 7 --- Membuat Hero Panel
 
@@ -272,7 +272,7 @@ judul, paragraf, dan tautan Learn more.
 
 **Screenshot hasil praktik:**
 
-![Hero Panel](y0.png)
+![Hero Panel](pict%20ss/y0.png)
 
 ## 10. Langkah 8 --- Mengatur Main Content dan Sidebar
 
@@ -306,7 +306,7 @@ sidebar berada di sebelah kanan.
 
 **Screenshot hasil praktik:**
 
-![Main Content dan Sidebar](y11.png)
+![Main Content dan Sidebar](pict%20ss/y11.png)
 
 ## 11. Langkah 9 --- Membuat Sidebar Widget
 
@@ -380,7 +380,7 @@ Widget Text.
 
 **Screenshot hasil praktik:**
 
-![Sidebar Widget](y7.png)
+![Sidebar Widget](pict%20ss/y7.png)
 
 ## 12. Langkah 10 --- Mengatur Footer
 
@@ -576,7 +576,7 @@ berbeda.
 
 **Screenshot hasil praktik:**
 
-![Konten Artikel](y6.png)
+![Konten Artikel](pict%20ss/y6.png)
 
 ## 15. Tugas About dan Contact
 
@@ -592,7 +592,7 @@ ingin memakai gaya yang sama.
 
 **Screenshot hasil praktik:**
 
-![Halaman About](bout.png)
+![Halaman About](pict%20ss/bout.png)
 
 ### B. Halaman Contact
 
@@ -622,7 +622,7 @@ benar-benar terkirim, diperlukan pemrosesan tambahan.
 
 **Screenshot hasil praktik:**
 
-![Halaman Contact](kontak.png)
+![Halaman Contact](pict%20ss/kontak.png)
 
 ## 17. Kesimpulan
 
